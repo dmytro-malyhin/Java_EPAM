@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. Nested classes. Collection (part 1)/01. Nested classes. Collection (part 1).iml" filepath="$PROJECT_DIR$/01. Nested classes. Collection (part 1)/01. Nested classes. Collection (part 1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Collection (part 2)/02. Collection (part 2).iml" filepath="$PROJECT_DIR$/02. Collection (part 2)/02. Collection (part 2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_EPAM.iml" filepath="$PROJECT_DIR$/.idea/Java_EPAM.iml" />
+    </modules>
+  </component>
+</project>
